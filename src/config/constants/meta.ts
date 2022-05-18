@@ -4,7 +4,7 @@ import { PageMeta } from './types'
 export const DEFAULT_META: PageMeta = {
   title: 'BlackSwanFoundry',
   description:
-    'The most popular AMM on BSC by user count! Earn CAKE through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by PancakeSwap), NFTs, and more, on a platform you can trust.',
+    'A decentralized blockchain management platform for assets and utilities. Mint BSF20 & BSF721 Tokens on many blockchains supported by the platform. Earn BSF for participating in the platform mechanisms for managing assets and utilities.',
   image: 'https://pancakeswap.finance/images/hero.png',
 }
 
